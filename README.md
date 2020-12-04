@@ -1,9 +1,7 @@
-2D Balls Physics
+# **2D Balls Physics**
 
 This project allows user to create two balls to interact within a box environment.
 
 
-
 To Run:
-
-  py .\balls.py
+    > py .\balls.py
